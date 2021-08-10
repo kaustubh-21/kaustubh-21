@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Myself [Ujwal Kumar](github.com/kaustubh-21), an undergraduate student in Chemical engineering department at IIT Kanpur
+#### Myself [Kaustubh Agrawal](github.com/kaustubh-21), an undergraduate student in Chemical engineering department at IIT Kanpur
 
 - 🔭 I’m currently working on to improve myself each passing day .
 - 📫 How to reach me: kaustubhagrawal13@gmail.com :email:
